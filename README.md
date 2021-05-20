@@ -24,3 +24,4 @@ Experienced working across multiple industries including technology, finance, lo
 ![](https://img.shields.io/badge/Cloud-Amazon%20AWS-green?style=for-the-badge&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 ## Certifications
+![](https://jamesshocking.github.io/images/databricks_dev_cert_3.jpg)
